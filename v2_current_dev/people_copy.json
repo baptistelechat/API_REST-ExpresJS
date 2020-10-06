@@ -1,0 +1,38 @@
+{
+    "people": [
+    {
+    "id": 0,
+    "firstname": "🧑 Ana",
+    "lastname": "👪 Stroman",
+    "email": "💻 Scotty36@yahoo.com",
+    "filter": 100
+    },
+    {
+    "id": 1,
+    "firstname": "🧑 Sylvester",
+    "lastname": "👪 Lowe",
+    "email": "💻 Jada.Gleichner6@gmail.com",
+    "filter": 101
+    },
+    {
+    "id": 2,
+    "firstname": "🧑 Tomas",
+    "lastname": "👪 Schumm",
+    "email": "💻 Delmer.Hoeger@yahoo.com",
+    "filter": 100
+    },
+    {
+    "id": 3,
+    "firstname": "🧑 Hilma",
+    "lastname": "👪 Bode",
+    "email": "💻 Brenden_Cruickshank@yahoo.com",
+    "filter": 101
+    },
+    {
+    "id": 4,
+    "firstname": "🧑 Bessie",
+    "lastname": "👪 Huel",
+    "email": "💻 Assunta_Stracke38@yahoo.com",
+    "filter": 100
+    }]
+}
