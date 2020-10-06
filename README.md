@@ -49,7 +49,6 @@ This project use Gitmoji : "An emoji guide for your commit messages".
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" width="200" alt="ExpresJS">
 <br/>
 <img src="https://raw.githubusercontent.com/Marak/faker.js/master/logo.png" width="200" alt="ExpresJS">
-<br/>
 <h2>+ body-parser</h2>
 <br/>
 <br/>
