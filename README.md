@@ -5,10 +5,10 @@ This is an API REST based on ExpressJS.
 ## Installation
 Clone this repository and go to latest or current_dev's folder
 ```bash
-git clone https://github.com/baptistelechat/API_RESET-ExpresJS.git && cd v1_latest && nodemon app.js
+git clone https://github.com/baptistelechat/API_RESET-ExpresJS.git && cd v1_latest && npm i && nodemon app.js
 ```
 ```bash
-git clone https://github.com/baptistelechat/API_RESET-ExpresJS.git && cd v2_current_dev && nodemon app.js
+git clone https://github.com/baptistelechat/API_RESET-ExpresJS.git && cd v2_current_dev && npm i && nodemon app.js
 ```
 
 ## Maintainers
